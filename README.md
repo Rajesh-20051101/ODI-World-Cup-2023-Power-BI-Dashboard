@@ -101,8 +101,8 @@ The main objective of this project is to transform cricket statistics into meani
 B.Sc. Computer Science | Aspiring Data Analyst
 
 - Skills: SQL | MySQL | Excel | Power BI | Python
-- LinkedIn: linkedin.com/in/rajesh-m-bb62b52a5
-- GitHub: https://github.com/Rajesh-20051101
+- LinkedIn: [Rajesh M](https://www.linkedin.com/in/rajesh-m-bb62b52a5/)
+- GitHub: [Rajesh-20051101](https://github.com/Rajesh-20051101)
 
 ---
 
